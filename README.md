@@ -26,7 +26,7 @@ node_modules/
 index.html
 about.html
 install-guide.html
-function-guide.html
+feature-guide.html
 css/
     main.css
 js/
